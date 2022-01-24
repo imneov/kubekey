@@ -1,7 +1,7 @@
 Enable kubekey auto-completion
 ------------
 
-**Prerequisite**: make sure `bash-completion` is installed and does workk.
+**Prerequisite**: make sure `bash-completion` is installed and does work.
 
 ## Bash Completion
 
